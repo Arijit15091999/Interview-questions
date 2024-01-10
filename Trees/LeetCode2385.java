@@ -1,4 +1,7 @@
 import java.util.*;
+
+// https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/submissions/
+
 class Solution {
     public int amountOfTime(TreeNode root, int start) {
         Map<TreeNode, TreeNode> map = new HashMap<>();
