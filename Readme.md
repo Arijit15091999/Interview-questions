@@ -1,1 +1,1 @@
-## repository for DSA and machine coding rounds
+# repository for DSA and machine coding rounds
