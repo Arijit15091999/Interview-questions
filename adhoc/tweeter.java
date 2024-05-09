@@ -2,8 +2,8 @@ import java.util.*;
 
 class Twitter {
 
-    List<Post> globalPostList;
-    Map<Integer, User> globalUserMap;
+    private final List<Post> globalPostList;
+    private final Map<Integer, User> globalUserMap;
 
     public Twitter() {
         globalPostList = new ArrayList<>();
@@ -65,12 +65,12 @@ class Twitter {
         // [[], [1, 5], [1], [1, 2], [2, 6], [1], [1, 2], [1]]
         Twitter twitter = new Twitter();
         twitter.postTweet(1, 5);
-        twitter.getNewsFeed(1);
+        System.out.println(twitter.getNewsFeed(1));
         twitter.follow(1,2);
         twitter.postTweet(2,6);
-        twitter.getNewsFeed(1);
+        System.out.println(twitter.getNewsFeed(1));
         twitter.unfollow(1,2);
-        twitter.getNewsFeed(1);
+        System.out.println(twitter.getNewsFeed(1));
 
     }
 }
