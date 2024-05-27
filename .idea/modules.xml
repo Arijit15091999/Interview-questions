@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interview_questions.iml" filepath="$PROJECT_DIR$/Interview_questions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
     </modules>
   </component>

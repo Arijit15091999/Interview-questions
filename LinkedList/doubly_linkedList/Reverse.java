@@ -1,6 +1,6 @@
 package doubly_linkedList;
 
-public class reverse {
+public class Reverse {
     public static Node reverseDLL(Node head) {
         Node prev = null, curr = head;
 
