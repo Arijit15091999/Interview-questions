@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StackAndQueue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Graph" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
