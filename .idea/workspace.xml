@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b7460d-b6fd-4024-a250-63c3eeb47ae0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/LeetCode114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/LeetCode145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/LeetCode94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/ThreeTraversals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview-questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Interview-questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/LeetCode102.java" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/LeetCode102.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +137,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -226,7 +224,8 @@
       <updated>1726257560899</updated>
       <workItem from="1730388299446" duration="1067000" />
       <workItem from="1745559549322" duration="1915000" />
-      <workItem from="1745947248416" duration="2011000" />
+      <workItem from="1745947248416" duration="3367000" />
+      <workItem from="1745983102860" duration="1906000" />
     </task>
     <servers />
   </component>
