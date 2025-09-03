@@ -5,42 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b7460d-b6fd-4024-a250-63c3eeb47ae0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode1792.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode3025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode3304.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview-questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Interview-questions.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Leetcode151.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/Leetcode151.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-              <folding>
-                <element signature="e#1627#1628#0" expanded="true" />
-                <element signature="e#1712#1713#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LeetCode1903.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/String/LeetCode1903.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,6 +105,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arijitpc/Desktop/Interview-questions&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -229,6 +204,9 @@
       <workItem from="1746469231605" duration="8000" />
       <workItem from="1746780198038" duration="151000" />
       <workItem from="1747953439518" duration="3000" />
+      <workItem from="1756717304271" duration="6392000" />
+      <workItem from="1756812622827" duration="2859000" />
+      <workItem from="1756875917963" duration="2054000" />
     </task>
     <servers />
   </component>
@@ -266,6 +244,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
