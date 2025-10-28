@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3527ee33-aef1-494f-b4b6-6e1c72ad7746" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/CombinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/CombinationSum3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/CombinationalSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Combinations1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/FoodRatings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/LeetCode17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/LeetCode698.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Packet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Router.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Spreadsheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DailyChallenges/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subsequences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview-questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview-questions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Interview-questions/LeetCode3304.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Interview-questions/LeetCode3304.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="34gvheBScAzlPlacboORFHsa6nW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3527ee33-aef1-494f-b4b6-6e1c72ad7746" name="Changes" comment="" />
+      <created>1761648150732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761648150732</updated>
+      <workItem from="1761648152175" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
