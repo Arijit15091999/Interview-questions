@@ -49,7 +49,14 @@ class SegmentTree:
             return 0
         else:
             return self.__queryHelper(node.left, start, end) + self.__queryHelper(node.right, start, end)
+    
     def update(self, index, newValue):
+        """
+        Docstring for update
+        
+        :param index: provide the index of the elemnt you want to update
+        :param newValue: new updated value
+        """
         root = self.__root
         self.__updateHelper(root, index, newValue)
     def __updateHelper(self, root, index, newValue) -> tuple:
@@ -67,4 +74,13 @@ class SegmentTree:
             root.data += -left[0] -right[0] + left[1] + right[1]
             return (left[0] + right[0], left[1] + right[1])
     def rangeSum(self, start: int, end: int) -> int:
-        pass
+        root = self.__root
+        return self.__rangeSumHelper(root, start, end)
+    def __rangeSumHelper(self, node, start, end):
+        if node.start >= start and node.end <= end:
+            return node.data
+        elif node.start > end or node.end < start:
+            return 0
+        else:
+            return self.__rangeSumHelper(node.left, start, end) + self.__rangeSumHelper(node.right, start, end)
+    
