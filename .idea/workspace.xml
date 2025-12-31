@@ -5,29 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b7460d-b6fd-4024-a250-63c3eeb47ae0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/CombinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/CombinationSum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/CombinationalSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Combinations1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/FoodRatings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode698.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Packet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Router.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Spreadsheet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Subset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/SudokuSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/TaskManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/BitPlusPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/NextRound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Subsequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Watermolon4a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Way_Too_Long_Words.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1343C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1352B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1366A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1472C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1675D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1676g.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1741D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1830A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1843D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1914C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1917B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2009C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces327A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces349A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces466A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces492b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces522A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces755C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces82A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces862B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces913B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode1976.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode787.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode1631.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/BeautifulMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/BoyOrGril.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/DominoPiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/EvenOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/FootBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/GravityFlip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/HQ9Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/HelpfulMaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/PetyaAndStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Twins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/WordCapitalization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview-questions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Interview-questions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview-questions/LeetCode3304.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview-questions/LeetCode3304.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Interview-questions/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview-questions/Team.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +157,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Way_Too_Long_Words">
+  <component name="RunManager" selected="Application.EvenOdds">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -151,8 +165,16 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="CombinationalSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CombinationalSum1" />
+    <configuration name="EvenOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenOdds" />
+      <module name="Interview-questions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelpfulMaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelpfulMaths" />
       <module name="Interview-questions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -177,14 +199,6 @@
     </configuration>
     <configuration name="Router" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Router" />
-      <module name="Interview-questions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Subset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Subset" />
       <module name="Interview-questions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -232,19 +246,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Leetcode151" />
+      <item itemvalue="Application.EvenOdds" />
+      <item itemvalue="Application.HelpfulMaths" />
       <item itemvalue="Application.Way_Too_Long_Words" />
       <item itemvalue="Application.Router" />
       <item itemvalue="Application.LeetCode698" />
-      <item itemvalue="Application.CombinationalSum1" />
-      <item itemvalue="Application.Subset" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenOdds" />
+        <item itemvalue="Application.HelpfulMaths" />
         <item itemvalue="Application.Way_Too_Long_Words" />
         <item itemvalue="Application.Router" />
         <item itemvalue="Application.LeetCode698" />
-        <item itemvalue="Application.Subset" />
-        <item itemvalue="Application.CombinationalSum1" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +297,23 @@
       <workItem from="1758308347204" duration="1455000" />
       <workItem from="1758377545994" duration="3050000" />
       <workItem from="1758563877293" duration="3300000" />
-      <workItem from="1761648162868" duration="4370000" />
+      <workItem from="1761648162868" duration="10170000" />
+      <workItem from="1761675643310" duration="5307000" />
+      <workItem from="1766211551255" duration="5257000" />
+      <workItem from="1766217534484" duration="1434000" />
+      <workItem from="1766239802254" duration="2481000" />
+      <workItem from="1766259265407" duration="2107000" />
+      <workItem from="1766647812478" duration="2522000" />
+      <workItem from="1766658265630" duration="599000" />
+      <workItem from="1766683000724" duration="1063000" />
+      <workItem from="1766690504039" duration="2621000" />
+      <workItem from="1766733180581" duration="2182000" />
+      <workItem from="1766813486182" duration="3348000" />
+      <workItem from="1766825543943" duration="595000" />
+      <workItem from="1766826859546" duration="4106000" />
+      <workItem from="1766903074787" duration="10173000" />
+      <workItem from="1767085829426" duration="3126000" />
+      <workItem from="1767167288251" duration="2533000" />
     </task>
     <servers />
   </component>
