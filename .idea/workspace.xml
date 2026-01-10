@@ -5,43 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b7460d-b6fd-4024-a250-63c3eeb47ae0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1343C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1352B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1366A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1472C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1675D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1676g.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1741D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1830A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1843D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1914C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1917B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2009C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces327A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces349A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces466A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces492b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces522A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces755C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces82A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces862B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces913B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode1976.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/LeetCode787.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode1631.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/BeautifulMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/BoyOrGril.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/DominoPiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/EvenOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/FootBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/GravityFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/HQ9Plus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/HelpfulMaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/PetyaAndStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Twins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/WordCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/CodeForces1360D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1437D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2175B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2181H.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces690C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces930A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces982C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode1339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/BellmanFord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/KruskalsAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/LeetCode1319.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/LeetCode721.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Leetcode1334.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Leetcode547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/PrimsAlgorithm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Interview-questions/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Interview-questions/Team.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +293,20 @@
       <workItem from="1766826859546" duration="4106000" />
       <workItem from="1766903074787" duration="10173000" />
       <workItem from="1767085829426" duration="3126000" />
-      <workItem from="1767167288251" duration="2533000" />
+      <workItem from="1767167288251" duration="4617000" />
+      <workItem from="1767258080109" duration="1585000" />
+      <workItem from="1767276058602" duration="1516000" />
+      <workItem from="1767345357197" duration="5960000" />
+      <workItem from="1767380007620" duration="2376000" />
+      <workItem from="1767423175545" duration="3492000" />
+      <workItem from="1767511995061" duration="1690000" />
+      <workItem from="1767554883158" duration="796000" />
+      <workItem from="1767603786658" duration="1347000" />
+      <workItem from="1767715982916" duration="2175000" />
+      <workItem from="1767802072425" duration="1053000" />
+      <workItem from="1767983559283" duration="907000" />
+      <workItem from="1767988330497" duration="1016000" />
+      <workItem from="1768028720867" duration="2466000" />
     </task>
     <servers />
   </component>
