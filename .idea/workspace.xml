@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b7460d-b6fd-4024-a250-63c3eeb47ae0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/CodeForces1360D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1437D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2175B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2181H.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces690C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces930A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces982C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode1339.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/BellmanFord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/DisjointSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/KruskalsAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/LeetCode1319.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/LeetCode721.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Leetcode1334.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/Leetcode547.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Graph/PrimsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/CodeForces2169B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1850F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1902C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces2125B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode1791.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Leetcode997.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyChallenges/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyChallenges/Codeforces1437D.java" beforeDir="false" afterPath="$PROJECT_DIR$/DailyChallenges/Codeforces1437D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +299,15 @@
       <workItem from="1767802072425" duration="1053000" />
       <workItem from="1767983559283" duration="907000" />
       <workItem from="1767988330497" duration="1016000" />
-      <workItem from="1768028720867" duration="2466000" />
+      <workItem from="1768028720867" duration="3400000" />
+      <workItem from="1768717136180" duration="2991000" />
+      <workItem from="1769018340933" duration="1832000" />
+      <workItem from="1769242033580" duration="3742000" />
+      <workItem from="1769265396858" duration="2040000" />
+      <workItem from="1769275176764" duration="1601000" />
+      <workItem from="1769323945925" duration="389000" />
+      <workItem from="1769349651801" duration="910000" />
+      <workItem from="1771664472661" duration="3000" />
     </task>
     <servers />
   </component>
